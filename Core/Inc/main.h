@@ -59,6 +59,10 @@ void Error_Handler(void);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
+#define ULTSNC_TRIG_Pin GPIO_PIN_4
+#define ULTSNC_TRIG_GPIO_Port GPIOA
+#define ULTSNC_ECHO_Pin GPIO_PIN_5
+#define ULTSNC_ECHO_GPIO_Port GPIOA
 #define MTR_PWM_RIGHT_Pin GPIO_PIN_8
 #define MTR_PWM_RIGHT_GPIO_Port GPIOA
 #define MTR_PWM_LEFT_Pin GPIO_PIN_9

@@ -20,5 +20,5 @@ void APP_loop()
 
 
 
-
+	osDelay(20);
 }
