@@ -1,0 +1,14 @@
+../Drivers/STM32F1xx_HAL_Driver/Ext/MPU/MPU_program.c:52:26:MPU6050_ReadReg	32	static
+../Drivers/STM32F1xx_HAL_Driver/Ext/MPU/MPU_program.c:67:26:MPU6050_WriteReg	32	static
+../Drivers/STM32F1xx_HAL_Driver/Ext/MPU/MPU_program.c:82:26:MPU6050_Calibrate	64	static
+../Drivers/STM32F1xx_HAL_Driver/Ext/MPU/MPU_program.c:144:19:MPU6050_Init	24	static
+../Drivers/STM32F1xx_HAL_Driver/Ext/MPU/MPU_program.c:223:19:MPU6050_Update	80	static
+../Drivers/STM32F1xx_HAL_Driver/Ext/MPU/MPU_program.c:319:7:MPU6050_GetAccelX	4	static
+../Drivers/STM32F1xx_HAL_Driver/Ext/MPU/MPU_program.c:325:7:MPU6050_GetAccelY	4	static
+../Drivers/STM32F1xx_HAL_Driver/Ext/MPU/MPU_program.c:331:7:MPU6050_GetAccelZ	4	static
+../Drivers/STM32F1xx_HAL_Driver/Ext/MPU/MPU_program.c:337:7:MPU6050_GetGyroX	4	static
+../Drivers/STM32F1xx_HAL_Driver/Ext/MPU/MPU_program.c:343:7:MPU6050_GetGyroY	4	static
+../Drivers/STM32F1xx_HAL_Driver/Ext/MPU/MPU_program.c:349:7:MPU6050_GetGyroZ	4	static
+../Drivers/STM32F1xx_HAL_Driver/Ext/MPU/MPU_program.c:355:7:MPU6050_GetPitch	4	static
+../Drivers/STM32F1xx_HAL_Driver/Ext/MPU/MPU_program.c:361:7:MPU6050_GetRoll	4	static
+../Drivers/STM32F1xx_HAL_Driver/Ext/MPU/MPU_program.c:367:7:MPU6050_GetYaw	4	static

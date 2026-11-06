@@ -1,4 +1,6 @@
 #include "main.h"
+#include <math.h>
+#include "../MPU/MPU_interface.h"
 #include "DCMTR_interface.h"
 
 /* Motor Configuration */
@@ -115,7 +117,6 @@ HAL_StatusTypeDef MOTOR_INIT(void)
 
     if (status != HAL_OK)
         return status;
-
     status = HAL_TIM_PWM_Start(&htim1, TIM_CHANNEL_2);
 
     if (status != HAL_OK)
@@ -173,7 +174,7 @@ void STOP(void)
     is_turning = 0;
     SET_SPEED(0, 0);
 }
-
+//MOTOR_UPDATE_HEADING_LOGIC
 
 /*Turning Control*/
 

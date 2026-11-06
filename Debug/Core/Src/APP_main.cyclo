@@ -1,0 +1,5 @@
+../Core/Src/APP_main.c:56:6:APP_init	1
+../Core/Src/APP_main.c:68:6:APP_loop	1
+../Core/Src/APP_main.c:74:6:vTaskUltrasonic	2
+../Core/Src/APP_main.c:93:6:vTaskBluetooth	10
+../Core/Src/APP_main.c:140:6:vTaskMPUSensor	1

@@ -23,6 +23,10 @@
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 #include "APP_interface.h"
+#include "../Ext/DCMTR/DCMTR_interface.h"
+#include "../Ext/MPU/MPU_interface.h"
+#include "../Ext/ULTSNC/ULTSNC_interface.h"
+#include "../Ext/bluetooth/bluetooth_interface.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -112,6 +116,7 @@ int main(void)
   MX_TIM2_Init();
   /* USER CODE BEGIN 2 */
   APP_init();
+  MPU6050_Init(&hi2c1);
   /* USER CODE END 2 */
 
   /* Init scheduler */

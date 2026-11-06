@@ -1,0 +1,5 @@
+../Core/Src/APP_main.c:56:6:APP_init	80	static
+../Core/Src/APP_main.c:68:6:APP_loop	8	static
+../Core/Src/APP_main.c:74:6:vTaskUltrasonic	24	static
+../Core/Src/APP_main.c:93:6:vTaskBluetooth	24	static
+../Core/Src/APP_main.c:140:6:vTaskMPUSensor	16	static

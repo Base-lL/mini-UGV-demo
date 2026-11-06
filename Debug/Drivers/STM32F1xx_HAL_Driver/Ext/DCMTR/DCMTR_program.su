@@ -1,0 +1,14 @@
+../Drivers/STM32F1xx_HAL_Driver/Ext/DCMTR/DCMTR_program.c:33:16:CLAMP_SPEED	16	static
+../Drivers/STM32F1xx_HAL_Driver/Ext/DCMTR/DCMTR_program.c:46:14:GET_ANGLE_ERROR	24	static
+../Drivers/STM32F1xx_HAL_Driver/Ext/DCMTR/DCMTR_program.c:61:13:SET_MOTOR	40	static
+../Drivers/STM32F1xx_HAL_Driver/Ext/DCMTR/DCMTR_program.c:96:16:GET_TURN_SPEED	24	static
+../Drivers/STM32F1xx_HAL_Driver/Ext/DCMTR/DCMTR_program.c:112:19:MOTOR_INIT	16	static
+../Drivers/STM32F1xx_HAL_Driver/Ext/DCMTR/DCMTR_program.c:139:6:SET_SPEED	16	static
+../Drivers/STM32F1xx_HAL_Driver/Ext/DCMTR/DCMTR_program.c:156:6:FORWARD	8	static
+../Drivers/STM32F1xx_HAL_Driver/Ext/DCMTR/DCMTR_program.c:164:6:BACKWARD	8	static
+../Drivers/STM32F1xx_HAL_Driver/Ext/DCMTR/DCMTR_program.c:172:6:STOP	8	static
+../Drivers/STM32F1xx_HAL_Driver/Ext/DCMTR/DCMTR_program.c:182:6:MOTOR_TURN_TO_ANGLE	16	static
+../Drivers/STM32F1xx_HAL_Driver/Ext/DCMTR/DCMTR_program.c:194:6:TURN_RIGHT	8	static
+../Drivers/STM32F1xx_HAL_Driver/Ext/DCMTR/DCMTR_program.c:201:6:TURN_LEFT	8	static
+../Drivers/STM32F1xx_HAL_Driver/Ext/DCMTR/DCMTR_program.c:209:6:MOTOR_UPDATE_HEADING_LOGIC	24	static
+../Drivers/STM32F1xx_HAL_Driver/Ext/DCMTR/DCMTR_program.c:253:9:MOTOR_IS_TURNING	4	static
